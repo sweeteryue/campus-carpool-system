@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="3">
+<mxfile host="app.diagrams.net" pages="4">
   <diagram name="第 1 页" id="l_sEnkqCFj0AEa1nKKp0">
     <mxGraphModel dx="1022" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,7 +148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lfkq1jkBw7N9ym2xpcHi" name="第 3 页">
-    <mxGraphModel dx="5194" dy="2463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -836,7 +836,7 @@
           <mxGeometry height="90" width="150" x="-1260" y="820" as="geometry" />
         </mxCell>
         <mxCell id="ffKgNQ5rVxqQusYrcdLZ-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 15px;&quot;&gt;contact_share_enabled&lt;/font&gt;" vertex="1">
-          <mxGeometry height="125" width="210" x="-1140" y="960" as="geometry" />
+          <mxGeometry height="70" width="203" x="-1140" y="960" as="geometry" />
         </mxCell>
         <mxCell id="ffKgNQ5rVxqQusYrcdLZ-42" edge="1" parent="1" source="ffKgNQ5rVxqQusYrcdLZ-40" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ffKgNQ5rVxqQusYrcdLZ-38" value="">
           <mxGeometry relative="1" as="geometry">
@@ -852,6 +852,38 @@
         </mxCell>
         <mxCell id="ffKgNQ5rVxqQusYrcdLZ-44" parent="1" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fillColor=#B1DDF0;strokeColor=#10739E;" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;direction_allowed&lt;/span&gt;" vertex="1">
           <mxGeometry height="102.5" width="190" x="540" y="1510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mGHRCwCs0wo06eUa6U_W" name="第 4 页">
+    <mxGraphModel dx="859" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HWZIR194oon30R3kxyAK-1" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;student&lt;/span&gt;" vertex="1">
+          <mxGeometry height="290" width="230" x="200" y="130" as="geometry">
+            <mxRectangle height="50" width="80" x="200" y="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcbAu-6_H1Zan6lQqtRP-2" parent="HWZIR194oon30R3kxyAK-1" style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;align=center;resizeLast=1;collapsible=0;" value="" vertex="1">
+          <mxGeometry height="30" width="230" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wcbAu-6_H1Zan6lQqtRP-3" parent="wcbAu-6_H1Zan6lQqtRP-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
+          <mxGeometry height="30" width="230" as="geometry" />
+        </mxCell>
+        <mxCell id="wcbAu-6_H1Zan6lQqtRP-4" parent="wcbAu-6_H1Zan6lQqtRP-3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" value="PK" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wcbAu-6_H1Zan6lQqtRP-5" parent="wcbAu-6_H1Zan6lQqtRP-3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; font-weight: 400; text-align: center;&quot;&gt;student-id&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="30" as="geometry">
+            <mxRectangle height="30" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWZIR194oon30R3kxyAK-2" parent="HWZIR194oon30R3kxyAK-1" style="align=left;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;student‑nickname&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff)); font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;register_time&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;password_hash&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;verify_status&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;loc_permission&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;student_gender&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; text-align: center;&quot;&gt;student-name&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; text-align: center;&quot;&gt;profile_visibility&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; text-align: center;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; text-align: center;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; text-align: center; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;history_visible&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; text-align: center; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; text-align: center; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;contact_share_enabled&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; text-align: center;&quot;&gt;student_phone{}&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 15px; text-align: center; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="230" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
